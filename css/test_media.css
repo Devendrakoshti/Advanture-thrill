@@ -1,0 +1,8 @@
+@media (max-width:500px) {
+    .main .adv ul {
+        display: block;
+    }
+    .main .adv p {
+        color: aqua;
+    }
+}
